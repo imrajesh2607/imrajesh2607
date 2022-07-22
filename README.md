@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @imrajesh2607
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on Web Projects
+- 🌱 I’m currently learning Machine Learning
+- 💞️ I’m looking to collaborate on ML Projects
 - 📫 How to reach me rajesh.kulkarni2607@gmail.com
 
 <!---
