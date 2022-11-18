@@ -1,6 +1,6 @@
 ![Banner](https://github.com/imrajesh2607/imrajesh2607/blob/main/Rajesh%20Image.png)
 <h1 align="center">Hi 👋, I'm Rajesh Kulkarni</h1>
-<h3 align="center">A Passionate Data Scientist from India</h3>
+<h3 align="center">An Aspiring Data Scientist from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imrajesh2607&label=Profile%20views&color=0e75b6&style=flat" alt="imrajesh2607" /> </p>
 
