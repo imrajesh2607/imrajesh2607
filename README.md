@@ -1,4 +1,4 @@
-![Banner](https://github.com/imrajesh2607/imrajesh2607/blob/main/Rajesh%20Image.png)
+![Banner](https://github.com/imrajesh2607/imrajesh2607/blob/main/Rajesh%20Back%20Cover.png)
 <h1 align="center">Hi 👋, I'm Rajesh Kulkarni</h1>
 <h3 align="center">An Aspiring SDE from India</h3>
 
