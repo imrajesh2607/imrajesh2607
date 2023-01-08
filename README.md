@@ -1,3 +1,4 @@
+![Rajesh](https://github.com/imrajesh2607/imrajesh2607/blob/main/Rajesh%20Back%20Cover.png)
 <h1 align="center">Hi 👋, I'm Rajesh Kulkarni</h1>
 <h3 align="center">An Aspiring SDE from India</h3>
 
@@ -17,7 +18,7 @@
 <a href="https://instagram.com/imrajesh2607" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="imrajesh2607" height="30" width="30" /></a>
 <a href="https://www.codechef.com/users/imrajesh45" target="blank"><img align="center" src="https://upload.vectorlogo.zone/logos/codechef/images/c0290608-3c6b-406c-90ef-86e9200f383a.svg" alt="imrajesh45" height="30" width="30" /></a>
 <a href="https://www.hackerrank.com/rajesh_kulkarni1" target="blank"><img align="center" src="https://vectorwiki.com/images/gfcQJ__hackerrank.svg" alt="rajesh_kulkarni1" height="40" width="40" /></a>
-<a href="https://www.leetcode.com/imrajesh1845" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" alt="imrajesh1845" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/imrajesh1845" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3521542-2944960.png" alt="imrajesh1845" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
