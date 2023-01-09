@@ -12,7 +12,7 @@
 - 📫 How to reach me **rajesh.kulkarni2607@gmail.com**
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me 🤝</h3>
 
 <p align="left">
 <a href="https://leetcode.com/imrajesh1845/" target="_blank"><img alt="Leetcode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" height="25px"/></a>
@@ -29,7 +29,7 @@
 <a href="https://www.facebook.com/profile.php?id=100023911290262" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="25px"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools 👨‍💻</h3>
 <p align="left">
 <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25px"/>
 <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" height="25px"/>
@@ -52,9 +52,11 @@
 <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="25px"/>  
 <img alt="Android Studio" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" height="25px"/>           </p> 
 
+
+<h3 align="left"> Github 💻</h3>
 <table>
-<th>Github Stats 💫</th>
-<th> Github Streak 🔥 </th>
+<th> Stats 💫</th>
+<th> Streak 🔥 </th>
     <tr>
         <td>
             <img src="https://github-readme-stats.vercel.app/api?username=imrajesh2607&show_icons=true&locale=en&theme=radical" alt="imrajesh2607">
