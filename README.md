@@ -38,4 +38,4 @@
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imrajesh2607&show_icons=true&locale=en" alt="imrajesh2607" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imrajesh2607&" alt="imrajesh2607" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=imrajesh2607&show_icons=true&locale=en" alt="imrajesh2607" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imrajesh2607&" alt="imrajesh2607" /></p>
