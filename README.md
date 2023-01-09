@@ -52,4 +52,24 @@
 <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="25px"/>  
 <img alt="Android Studio" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" height="25px"/>           </p> 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=imrajesh2607&show_icons=true&locale=en" alt="imrajesh2607" />&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imrajesh2607&" alt="imrajesh2607" /></p>
+<table>
+<th>Github Stats 🌟</th>
+<th>Current Streak & Contributions 🚀 </th>
+    <tr>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api?username=imrajesh2607&show_icons=true&locale=en&theme=radical" alt="imrajesh2607">
+        </td>
+        <td>
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=imrajesh2607&theme=radical"
+                        alt="imrajesh2607">
+        </td>
+    </tr>
+</table>
+
+<table>
+    <tr>
+        <td>
+			<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imrajesh2607&theme=monokai"  width="100%" height="auto"  alt="Monthly Contribution Graph" >
+        </td>
+    </tr>
+</table>
