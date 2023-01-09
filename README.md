@@ -53,8 +53,8 @@
 <img alt="Android Studio" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" height="25px"/>           </p> 
 
 <table>
-<th>Github Stats 🌟</th>
-<th>Current Streak & Contributions 🚀 </th>
+<th>Github Stats 💫</th>
+<th> Github Streak 🔥 </th>
     <tr>
         <td>
             <img src="https://github-readme-stats.vercel.app/api?username=imrajesh2607&show_icons=true&locale=en&theme=radical" alt="imrajesh2607">
@@ -62,14 +62,6 @@
         <td>
             <img src="https://github-readme-streak-stats.herokuapp.com/?user=imrajesh2607&theme=radical"
                         alt="imrajesh2607">
-        </td>
-    </tr>
-</table>
-
-<table>
-    <tr>
-        <td>
-			<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imrajesh2607&theme=monokai"  width="100%" height="auto"  alt="Monthly Contribution Graph" >
         </td>
     </tr>
 </table>
