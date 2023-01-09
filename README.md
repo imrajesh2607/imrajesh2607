@@ -1,4 +1,5 @@
-![Rajesh](https://github.com/imrajesh2607/imrajesh2607/blob/main/Rajesh%20Back%20Cover.png)
+![Rajesh Back Cover](https://user-images.githubusercontent.com/68502414/211241312-3bd92202-54da-42b9-a84d-3f263f6e6366.png)
+
 <h1 align="center">Hi 👋, I'm Rajesh Kulkarni</h1>
 <h3 align="center">An Aspiring SDE from India</h3>
 
