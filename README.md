@@ -5,9 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imrajesh2607&label=Profile%20views&color=0e75b6&style=flat" alt="imrajesh2607" /> </p>
 
-- 🔭 I’m currently working on **Kotlin**
-
-- 🌱 I’m currently learning **Android App Development**
+- 🌱 I’m currently learning **DevOps**
 
 - 📫 How to reach me **rajesh.kulkarni2607@gmail.com**
 
