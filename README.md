@@ -9,18 +9,6 @@
 
 - 👯 I am looking to collaborate on **Open-source projects related to DevOps, cloud-native technologies, automation, Building scalable and highly available systems**
 
-
-<h3 align="left">Connect with me 🤝</h3>
-
-<p align="left">
-<a href="https://leetcode.com/imrajesh1845/" target="_blank"><img alt="Leetcode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" height="25px"/></a>
-<a href="https://github.com/imrajesh2607" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25px"/></a>
-<a href="https://www.hackerearth.com/@imrajesh2607" target="_blank"><img alt="Hackerearth" src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" height="25px"/></a>
-<a href="https://www.hackerrank.com/rajesh_kulkarni1" target="_blank"><img alt="Hackerrank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" height="25px"/></a>
-<a href="https://www.codechef.com/users/imrajesh45" target="_blank"><img alt="Codechef" src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white" height="25px"/></a>
-<a href="https://www.linkedin.com/in/rajesh-kulkarni2607" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25px"/></a>
-</p>
-
 <h3 align="left">Languages, Technologies and Tools 👨‍💻</h3>
 <p align="left">
 <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25px"/>
