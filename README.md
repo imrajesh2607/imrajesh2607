@@ -78,11 +78,12 @@ Migration and modernization work in an enterprise Azure environment — moving l
 
 ### GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imrajesh2607&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Rajesh's GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imrajesh2607&theme=tokyonight&hide_border=true" alt="Rajesh's GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imrajesh2607&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
+<table align="left">
+<th> Stats 💫</th>
+    <tr>
+        <td>
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=imrajesh2607&theme=radical"
+                        alt="imrajesh2607">
+        </td>
+    </tr>
+</table>
